@@ -1,0 +1,22 @@
+{
+    "flights": [
+      {
+        "Flight_ID": "FL111",
+        "Date": "2025-01-01",
+        "Departure_Airport": "MLG",
+        "Arrival_Airport": "LDN",
+        "Duration_Minutes": 180,
+        "Passengers": 111,
+        "Revenue": 1000
+      },
+      {
+        "Flight_ID": "FL222",
+        "Date": "2025-02-02",
+        "Departure_Airport": "MLG",
+        "Arrival_Airport": "BCN",
+        "Duration_Minutes": 30,
+        "Passengers": 222,
+        "Revenue": 2000
+      }
+    ]
+}
