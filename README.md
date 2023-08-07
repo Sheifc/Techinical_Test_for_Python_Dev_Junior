@@ -1,6 +1,5 @@
 # Python Project
 
-<div style="text-align: justify;">
 As part of a technical test, I needed to work on this project, which I learned through its development. The project has been executed using a Jupyter Notebook named "flights.ipynb," chosen for didactic purposes.
 
 The subject and inquiries are included in the project, but real data has not been uploaded; instead, invented data has been created.
@@ -12,5 +11,3 @@ Additionally, a file named "test_flights.py" has been created to facilitate test
 To run the testing, you can execute the command "pytest test_flights.py" in the terminal.
 
 Enjoy :D
-
-</div>
