@@ -1,0 +1,5 @@
+cd ~/Desktop/nombre_de_tu_proyecto
+python3 -m venv nombre_del_entorno
+source nombre_del_entorno/bin/activate
+pip install pytest
+deactivate
