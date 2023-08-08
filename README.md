@@ -9,5 +9,3 @@ To mock different scenarios, some files have been generated to represent cases w
 Additionally, a file named "test_flights.py" has been created to facilitate testing with pytest. "test_flights.py" includes the test functions without comments, as well as the functions to be tested. All explanations and clarifications are provided in the Jupyter Notebook to enhance the didactic nature of this project.
 
 To run the testing, you can execute the command "pytest test_flights.py" in the terminal.
-
-Enjoy :D
